@@ -128,6 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-covid-19-xray_dev
+covid-19-xray-dev
 .DS_Store
 */.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints
